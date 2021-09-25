@@ -1,10 +1,10 @@
 package cool.roche.team4.repository;
 
-import cool.roche.team4.model.Question;
+import cool.roche.team4.model.UserChoice;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface QuestionRepository extends CrudRepository<Question, Integer> {
+public interface UserChoiceRepository extends CrudRepository<UserChoice, Integer> {
 
 }

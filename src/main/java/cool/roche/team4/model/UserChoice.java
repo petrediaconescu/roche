@@ -1,30 +1,31 @@
 package cool.roche.team4.model;
 
-import jdk.nashorn.internal.objects.annotations.Constructor;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
+@Entity
 @Data
 @Builder
-@Entity
 @AllArgsConstructor
 @NoArgsConstructor
-public class Question {
+public class UserChoice {
 
   @Id
   @GeneratedValue(strategy = IDENTITY)
   private Integer id;
 
-  @Column(nullable = false)
-  private String text;
+  private Integer userId;
 
-  @Column(nullable = false)
+  private Integer questionId;
+
   private Boolean answer;
 
 }
