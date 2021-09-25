@@ -24,7 +24,4 @@ public class Question {
   @Column(nullable = false)
   private String text;
 
-  @Column(nullable = false)
-  private Boolean answer;
-
 }

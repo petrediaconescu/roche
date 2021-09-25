@@ -19,8 +19,4 @@ public class QuestionController {
     return service.getQuestion(id);
   }
 
-  @PostMapping("/answer")
-  Question answer(@RequestBody Question question) {
-    return service.answer(question);
-  }
 }

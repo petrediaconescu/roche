@@ -5,6 +5,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
@@ -22,10 +23,16 @@ public class UserChoice {
   @GeneratedValue(strategy = IDENTITY)
   private Integer id;
 
+  @Column(nullable = false)
   private Integer userId;
 
+  @Column(nullable = false)
   private Integer questionId;
 
-  private Boolean answer;
+  @Column(nullable = false)
+  private int answer; // -1 for NA
+
+  @Column(nullable = false)
+  private int sessionId;
 
 }
