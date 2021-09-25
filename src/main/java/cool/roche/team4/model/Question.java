@@ -1,7 +1,7 @@
 package cool.roche.team4.model;
 
-import lombok.Builder;
-import lombok.Data;
+import jdk.nashorn.internal.objects.annotations.Constructor;
+import lombok.*;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -13,6 +13,8 @@ import static javax.persistence.GenerationType.IDENTITY;
 @Data
 @Builder
 @Entity
+@AllArgsConstructor
+@NoArgsConstructor
 public class Question {
 
   @Id
