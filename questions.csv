@@ -1,0 +1,61 @@
+id,question
+1,General feeling of wellbeing: Have you felt ill or unwell?
+2,Have you felt weak?
+3,Have you had a dry mouth?
+4,Have you had headaches?
+5,Have you had hot flushes?
+6,Have you had trouble sleeping?
+7,Have food and drink tasted different than usual?
+8,Have you lacked appetite?
+9,Have you felt nauseated?
+10,Have you vomited?
+11,Have you been constipated?
+12,Have you had diarrhea?
+101,Did you have a pain/itch/irritation in the body?
+102,Was the pain/itch/irritation in your breast or vagina?
+103,Have you had a swollen arm or hand?
+104,Have you had problems raising your arm or moving it sideways?
+105,Have you had tingling hands or feet?
+106,Do you have pain in your joints?
+107,Have you  had any pain in your arm or shoulder?
+201,Was the pain/itch/irritation in your breast?
+202,Has the area of your affected breast been swollen?
+203,Has the area of your affected breast been oversensitive?
+204,Have you had skin problems on or in the area of your affected breast (e.g. itchy, dry, flaky)?
+205,Did you have pain or discomfort with intercourse?
+206,Did you have vaginal dryness?
+207,Did you have vaginal itching/irritation?
+208,Did you have vaginal discharge?
+209,Did you have vaginal bleeding or spotting?
+301,Have you had any problems in everyday physical activities?
+302,Do you have any trouble doing strenuous activities like carrying a heavy shoppping bag or a suitcase?
+303,Do you need to stay in bed or a chair during the day?
+304,Do you have any trouble taking a short walk outside of the house?
+305,Do you have any trouble taking a long walk?
+306,Do you need help with eating, dressing, washing yourself or using the toilet?
+307,Has your physical condition or medical treatment interfered with your social activities?
+308,Has your physical condition or medical treatment interfered with your family life?
+401,Did you have any problems in activities such as sports?
+402,Were you limited in doing either your work or other daily activities?
+403,Were you limited in pursuing your hobbies or other leisure time activities?
+404,Were you short of breath?
+405,Have you had pain?
+406,Did you need to rest?
+501,Did you have mental related problems/frustrations?
+502,Did you worry?
+503,Have you had difficulty in concentration on things, like reading a newspaper or watching television?
+504,Did you feel tense?
+505,Have you had difficulty remembering things?
+506,Have you worried about your health in the future?
+507,Did you feel depressed?
+508,Did you feel irritable?
+509,Has your physical condition or medical treatment caused you financial difficulties?
+601,Have you been dissatisfied with your body?
+602,Have you lost any hair?
+603,Have you been upset by the loss of your hair?
+604,Have you felt less feminine as a result of your disease or treatment?
+605,Have you felt physically less attractive as a result of your disease or treatment?
+606,Have you had problems looking at yourself naked?
+701,Have you been interested in sex?
+702,Have you been sexually active (with or without intercourse)?
+703,Has sex been enjoyable to you?
