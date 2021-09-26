@@ -18,7 +18,7 @@ public class UserChoiceController {
   }
 
   @PostMapping("/")
-  UserChoice answer(@RequestBody UserChoice userChoice) {
+  UserChoice sendAnswer(@RequestBody UserChoice userChoice) {
     return service.answer(userChoice);
   }
 }

@@ -10,7 +10,7 @@ import java.util.Optional;
 @Repository
 public interface UserChoiceRepository extends CrudRepository<UserChoice, Integer> {
 
-  @Query(value = "SELECT * FROM USER_CHOICE WHERE USER_CHOICE_ID = ?1 AND session_id=?2", nativeQuery = true)
+  @Query(value = "SELECT * FROM USER_CHOICE WHERE ID = ?1 AND session_id=?2", nativeQuery = true)
   Optional<UserChoice> findByIdAndSessionId(Integer userChoiceId, String sessionId);
 
 }

@@ -32,6 +32,10 @@ public class UserService {
     return userChoiceRepository.findByIdAndSessionId(user.getLastUserChoiceId(), user.getSessionId()).orElseThrow(IllegalArgumentException::new);
   }
 
+  public User findById(Integer userId) {
+    return userRepository.findById(userId).orElse(null);
+  }
+
   private boolean isTheFirstTime(User user) {
     return Objects.isNull(user.getLastUserChoiceId());
   }

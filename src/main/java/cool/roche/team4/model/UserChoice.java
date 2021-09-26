@@ -30,9 +30,9 @@ public class UserChoice {
   private Integer questionId;
 
   @Column(nullable = false)
-  private int answer; // -1 for NA
+  private int answer;
 
   @Column(nullable = false)
-  private int sessionId;
+  private String sessionId;
 
 }
