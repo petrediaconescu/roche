@@ -29,6 +29,7 @@ public class TempListService {
     User user = userRepository.findById(userId).orElseThrow(IllegalArgumentException::new);
 
     user.setSessionId(computeSessionId(userId));
+    user.setLastUserChoiceId(null);
     userRepository.save(user);
 
     List<Question> questions = StreamSupport.stream(questionRepository.findAll().spliterator(), false)
