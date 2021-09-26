@@ -14,9 +14,9 @@ public class QuestionController {
     this.service = service;
   }
 
-  @GetMapping("by-patient-id/{id}")
-  public Question getQuestion(@PathVariable int id) {
-    return service.getQuestion(id);
+  @GetMapping("by-patient-id/{patientId}")
+  public Question getQuestion(@PathVariable int patientId) {
+    return service.getQuestion(patientId);
   }
 
 }

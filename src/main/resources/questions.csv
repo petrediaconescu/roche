@@ -1,86 +1,88 @@
-1,"Have you felt ill or unwell?"
-2,"Have you experienced any problems in everyday physical activities?"
-3,"Have ​you ​had ​mental ​related ​problems?"
-4,"Have you been dissatisfied with your body?"
-5,"Have you had ​problems in your sexual life?"
-6,"Have you had diarrhea?"
-7,"Have you been constipated?"
-8,"Have you felt weak?"
-9,"Have you had a dry mouth?"
-10,"Have you had headaches?"
-11,"Have you had hot flushes?"
-12,"Have food and drink tasted different than usual?"
-13,"Have you had trouble sleeping?"
-14,"Have you lacked appetite?"
-15,"Have you felt nauseated?"
-16,"Have your eyes been painful, irritated or watery?"
-17,"Pain/itch/irritation in the body?"
-18,"Do you have any trouble doing strenuous activities, like carrying a heavy shopping bag or a suitcase?"
-19,"Do you need to stay in bed or a chair during the day?"
-20,"Do you have any trouble taking a short walk outside of the house?"
-21,"Do you have any trouble taking a long walk?"
-22,"Do you need help with eating, dressing, washing yourself or using the toilet?"
-23,"Has your physical condition or medical treatment interfered with your social activities?"
-24,"Has your physical condition or medical treatment interfered with your family life?"
-25,"Did you worry?"
-26,"Have you had difficulty in concentrating on things, like reading a newspaper or watching television?"
-27,"Did you feel tense?"
-28,"Have you had difficulty remembering things?"
-29,"Have you worried about your health in the future?"
-30,"Did you feel depressed?"
-31,"Did you feel irritable?"
-32,"Has your physical condition or medical treatment caused you financial difficulties?"
-33,"Have you lost any hair?"
-34,"Have you felt physically less attractive as a result of your disease or treatment?"
-35,"Have you felt less feminine as a result of your disease or treatment?"
-36,"Have you been interested in sex?"
-37,"Was it in the breast or vagina"
-38,"Were you short of breath?"
-39,"Have you had pain?"
-40,"Did you need to rest?"
-41,"Were you short of breath?"
-42,"Have you had pain?"
-43,"Did you need to rest?"
-44,"Were you short of breath?"
-45,"Have you had pain?"
-46,"Did you need to rest?"
-47,"Were you short of breath?"
-48,"Have you had pain?"
-49,"Did you need to rest?"
-50,"Were you short of breath?"
-51,"Have you had pain?"
-52,"Did you need to rest?"
-53,"Were you short of breath?"
-54,"Have you had pain?"
-55,"Did you need to rest?"
-56,"Were you short of breath?"
-57,"Have you had pain?"
-58,"Did you need to rest?"
-59,"Have you vomited?"
-60,"Were you limited in pursuing your hobbies or other leisure time activities?"
-61,"Were you limited in doing either your work or other daily activities?"
-62,"Have you had problems looking at yourself naked?"
-63,"Have you been sexually active (with or without intercourse)?"
-64,"Have you had problems related to vagina?"
-65,"Was it in the brest?"
-66,"Was it in your arm or sholder?"
-67,"I have pain in my joints"
-68,"Have you had tingling hands or feet?"
-69,"Were you short of breath?"
-70,"Have you had pain?"
-71,"Did you need to rest?"
-72,"Were you short of breath?"
-73,"Have you had pain?"
-74,"Did you need to rest?"
-75,"Has sex been enjoyable for you?"
-76,"Has the area of your affected breast been swollen?"
-77,"Have you had skin problems on or in the area of your affected breast (e.g., itchy, dry, flaky)?"
-78,"Has the area of your affected breast been oversensitive?"
-79,"I have vaginal dryness"
-80,"I have vaginal itching/irritation"
-81,"I have vaginal discharge"
-82,"I have vaginal bleeding or spotting"
-83,"Have you had any pain in your arm or shoulder?"
-84,"Have you had a swollen arm or hand?"
-85,"Have you had problems raising your arm or moving it sideways?"
-86,"I have pain or discomfort with intercourse"
+1,Have you felt ill or unwell?
+2,Have you experienced any problems in everyday physical activities?
+3,Have ​you ​had ​mental ​related ​problems?
+4,Have you been dissatisfied with your body?
+5,Have you had ​problems in your sexual life?
+6,Have you had diarrhea?
+7,Have you been constipated?
+8,Have you felt weak?
+9,Have you had a dry mouth?
+10,Have you had headaches?
+11,Have you had hot flushes?
+12,Have food and drink tasted different than usual?
+13,Have you had trouble sleeping?
+14,Have you lacked appetite?
+15,Have you felt nauseated?
+16,Have your eyes been painful, irritated or watery?
+17,Pain/itch/irritation in the body?
+18,Do you have any trouble doing strenuous activities, like carrying a heavy shopping bag or a suitcase?
+19,Do you need to stay in bed or a chair during the day?
+20,Do you have any trouble taking a short walk outside of the house?
+21,Do you have any trouble taking a long walk?
+22,Do you need help with eating, dressing, washing yourself or using the toilet?
+23,Has your physical condition or medical treatment interfered with your social activities?
+24,Has your physical condition or medical treatment interfered with your family life?
+25,Did you worry?
+26,Have you had difficulty in concentrating on things, like reading a newspaper or watching television?
+27,Did you feel tense?
+28,Have you had difficulty remembering things?
+29,Have you worried about your health in the future?
+30,Did you feel depressed?
+31,Did you feel irritable?
+32,Has your physical condition or medical treatment caused you financial difficulties?
+33,Have you lost any hair?
+34,Have you felt physically less attractive as a result of your disease or treatment?
+35,Have you felt less feminine as a result of your disease or treatment?
+36,Have you been interested in sex?
+37,Was it only in the breast or vagina?
+38,Were you short of breath?
+39,Have you had pain?
+40,Did you need to rest?
+41,Were you short of breath?
+42,Have you had pain?
+43,Did you need to rest?
+44,Were you short of breath?
+45,Have you had pain?
+46,Did you need to rest?
+47,Were you short of breath?
+48,Have you had pain?
+49,Did you need to rest?
+50,Were you short of breath?
+51,Have you had pain?
+52,Did you need to rest?
+53,Were you short of breath?
+54,Have you had pain?
+55,Did you need to rest?
+56,Were you short of breath?
+57,Have you had pain?
+58,Did you need to rest?
+59,Have you vomited?
+60,Were you limited in pursuing your hobbies or other leisure time activities?
+61,Were you limited in doing either your work or other daily activities?
+62,Have you had problems looking at yourself naked?
+63,Have you been sexually active (with or without intercourse)?
+64,Have you had problems related to vagina?
+65,Was it in the brest?
+66,Was it in your arm or sholder?
+67,I have pain in my joints
+68,Have you had tingling hands or feet?
+69,Were you short of breath?
+70,Have you had pain?
+71,Did you need to rest?
+72,Were you short of breath?
+73,Have you had pain?
+74,Did you need to rest?
+75,Has sex been painful for you?
+76,Has the area of your affected breast been swollen?
+77,Have you had skin problems on or in the area of your affected breast (e.g., itchy, dry, flaky)?
+78,Has the area of your affected breast been oversensitive?
+79,I have vaginal dryness
+80,I have vaginal itching/irritation
+81,I have vaginal discharge
+82,I have vaginal bleeding or spotting
+83,Have you had any pain in your arm or shoulder?
+84,Have you had a swollen arm or hand?
+85,Have you had problems raising your arm or moving it sideways?
+86,I have pain or discomfort with intercourse
+87,Have you been upset by the loss of your hair?
+88,Any problems in activities such as sports?

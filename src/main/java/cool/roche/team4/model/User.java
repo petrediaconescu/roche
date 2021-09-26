@@ -24,4 +24,6 @@ public class User {
 
   private String sessionId;
 
+  private Integer lastUserChoiceId;
+
 }
