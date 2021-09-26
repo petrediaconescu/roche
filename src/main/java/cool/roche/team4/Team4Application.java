@@ -31,10 +31,8 @@ public class Team4Application implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-
 		initializeUsersInDb();
 		initializeQuestionsInDb();
-
 	}
 
 	private void initializeQuestionsInDb() throws IOException {

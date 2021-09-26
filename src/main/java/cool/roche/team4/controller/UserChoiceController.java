@@ -1,6 +1,5 @@
 package cool.roche.team4.controller;
 
-import cool.roche.team4.model.Question;
 import cool.roche.team4.model.UserChoice;
 import cool.roche.team4.service.UserChoiceService;
 import org.springframework.web.bind.annotation.PostMapping;

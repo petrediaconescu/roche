@@ -4,12 +4,10 @@ import cool.roche.team4.model.Question;
 import cool.roche.team4.model.User;
 import cool.roche.team4.repository.QuestionRepository;
 import cool.roche.team4.repository.TempListRepository;
-import cool.roche.team4.repository.UserChoiceRepository;
 import cool.roche.team4.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
-import java.time.LocalDate;
-import java.util.*;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
